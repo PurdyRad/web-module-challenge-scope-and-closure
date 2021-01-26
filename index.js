@@ -33,7 +33,7 @@ console.log(processFirstItem(['foo','bar'],function(str){return str+str}));
     Counter2 uses a closure as it is reaching out for the let variable.
   3. In what scenario would the counter1 code be preferable? In what scenario would 
      counter2 be better?  
-     The counter1 code would be preferable if you were using the count variable specifically for that function. Whereas counter2 would be better if you wanted to let the variable count be accessed by multiple functions.
+     The counter1 code would be preferable if you were using the count variable specifically for that function. Whereas counter2 would be better if you wanted to let the variable count be accessed by multiple functions..
      
 */
 
